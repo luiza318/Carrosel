@@ -155,5 +155,14 @@ section{
             }
         }
     }
+ .direitos{
+        background-color: rgb(5, 83, 119);
+        height: 80px;
+        padding: 30px;
+        margin-top: -7px;
+        text-align: center;
+        font-size: 1.3rem;
+        color: white;
+      }
 
 
